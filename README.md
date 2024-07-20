@@ -50,12 +50,12 @@ A comprehensive RESTful API for managing persons, built with Node.js, Express, a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/person-management-system.git
+   git clone https://github.com/saurabhdhumane/nodejsRestFullApi
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd person-management-system
+   cd nodejsRestFullApi
    ```
 
 3. Install the dependencies:
@@ -67,7 +67,7 @@ A comprehensive RESTful API for managing persons, built with Node.js, Express, a
    ```
    PORT=8080
    DB_CONNECT=your_mongodb_connection_string
-   SECRET_KEY=your_jwt_secret_key
+   JWT_SECRET_KEY=your_jwt_secret_key
    ```
 
 5. Start the server:
@@ -100,4 +100,4 @@ Feel free to fork the repository and submit pull requests. For major changes, pl
 This project is licensed under the MIT License.
 ```
 
-Feel free to replace `https://github.com/your-username/person-management-system.git` with the actual URL of your GitHub repository. Adjust any other parts as necessary to better fit your specific project details.
+Feel free to replace `https://github.com/saurabhdhumane/nodejsRestFullApi` with the actual URL of your GitHub repository. Adjust any other parts as necessary to better fit your specific project details.
