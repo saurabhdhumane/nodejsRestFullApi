@@ -32,6 +32,7 @@ A comprehensive RESTful API for managing persons, built with Node.js, Express, a
 │   └── PersonController.js   # Controller logic for person-related operations
 ├── middleware
 │   └── userAuth.js           # Middleware for user authentication
+    └── errorMiddleware.js           # Middleware for error handling
 ├── models
 │   └── PersonModel.js        # Mongoose schema and model for Person
 ├── routes
